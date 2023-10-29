@@ -57,6 +57,7 @@ npm install
 # then run server
 npm start
 ```
+8. Test CRUD (users) operations on Nodejs server, then test fetching users API from django.
 
 ## To do:
 - Unittest for django and nodejs
