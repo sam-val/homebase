@@ -22,6 +22,7 @@ Have admin control for the product model.
 
 **Single API** (this fetches users from the Nodejs server via Flask proxy server):
 - GET /v1/users : list all users
+- GET /v1/users/<id>: list a user
 
 
 ### (API proxy) Flask, port 5001
