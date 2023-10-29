@@ -188,6 +188,9 @@ cover/
 *.mo
 *.pot
 
+#sqlite
+.sqlite
+
 # Django stuff:
 *.log
 local_settings.py
