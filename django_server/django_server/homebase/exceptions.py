@@ -1,0 +1,2 @@
+class HomebaseException(Exception):
+    pass
