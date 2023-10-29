@@ -38,6 +38,7 @@ Server as a proxy for django and node js servers
 3. Run Django server (port 8000): open a terminal, cd to *django_server* directory and run:
 ```
 python manage.py runserver
+python manage.py migrate # migrations to sqlite db
 ```
 4. Create an admin account to sign in to Django admin:
 ```
